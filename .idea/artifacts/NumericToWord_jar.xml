@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NumericToWord:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NumericToWord_jar</output-path>
+    <root id="archive" name="NumericToWord.jar">
+      <element id="module-output" name="NumericToWord" />
+    </root>
+  </artifact>
+</component>
